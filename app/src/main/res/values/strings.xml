@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">STI Proware</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string-array name="branches">
+        <item>Taft</item>
+        <item>Fairview</item>
+        <item>Quezon Ave</item>
+        <item>Cubao</item>
+        <item>Novalichez</item>
+        <item>Meycauayan</item>
+        <item>Recto</item>
+        <item>Caloocan</item>
+    </string-array>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_cart">CartActivity</string>
+</resources>
