@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sti.sti_taft.activities.DetailActivity">
+    <item android:id="@+id/action_AddtoCart" android:title="Add to cart"
+        android:showAsAction="always"/>
+</menu>
+<!-- From: file:/D:/STI_Taft/app/src/main/res/menu/menu_detail.xml -->

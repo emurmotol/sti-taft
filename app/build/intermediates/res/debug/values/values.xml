@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/STI_Taft/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="branches">
+        <item>Taft</item>
+        <item>Fairview</item>
+        <item>Quezon Ave</item>
+        <item>Cubao</item>
+        <item>Novalichez</item>
+        <item>Meycauayan</item>
+        <item>Recto</item>
+        <item>Caloocan</item>
+    </string-array>
+    <!-- From: file:/D:/STI_Taft/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/STI_Taft/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">STI Proware</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <!-- From: file:/D:/STI_Taft/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
