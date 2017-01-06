@@ -1,0 +1,220 @@
+[
+    {
+        "outputFile": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 57,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 55,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 52,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 52,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 48,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 48,
+                        "endOffset": 61
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 52,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 52,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 60,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 60,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 57,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 57,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 734,
+                    "endColumn": 54,
+                    "endOffset": 784
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 54,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 789,
+                    "endColumn": 60,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 60,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 978
+                },
+                "from": {
+                    "file": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

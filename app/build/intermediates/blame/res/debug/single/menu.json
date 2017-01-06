@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail.xml",
+        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\menu\\menu_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cart.xml",
+        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\menu\\menu_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\menu\\menu_login.xml"
+    }
+]
