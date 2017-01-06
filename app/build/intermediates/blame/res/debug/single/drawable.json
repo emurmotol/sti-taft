@@ -40,12 +40,12 @@
         "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\drawable\\hoody_jacket.jpg"
     },
     {
-        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backpack.jpg",
-        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\drawable\\backpack.jpg"
-    },
-    {
         "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stilogo.png",
         "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\drawable\\stilogo.png"
+    },
+    {
+        "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backpack.jpg",
+        "source": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\src\\main\\res\\drawable\\backpack.jpg"
     },
     {
         "merged": "C:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pouch.jpg",

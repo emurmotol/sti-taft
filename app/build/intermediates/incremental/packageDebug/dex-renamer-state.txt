@@ -1,0 +1,7 @@
+#Fri Jan 06 10:54:24 SGT 2017
+base.0=C\:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4bd539023ef78bb0a68793ec121c94d6766b771a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_30d7f8a65d952cc4e6b964221ad75fd5170f1392\\classes.dex
+base.1=C\:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_30d7f8a65d952cc4e6b964221ad75fd5170f1392
+file.0=C\:\\Users\\zneyrl\\Projects\\Android\\sti-taft\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4bd539023ef78bb0a68793ec121c94d6766b771a\\classes.dex

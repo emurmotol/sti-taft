@@ -22,21 +22,22 @@ public class LoginActivity extends Activity {
     public static final int REQUEST_CODE2 = 1005;
     ProwareDataSource dataSource;
     public static final int REQUEST_CODE = 1001;
-    EditText etUName,etPass;
+    EditText etUName, etPass;
     List<User> userList;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        dataSource=new ProwareDataSource(this);
+        dataSource = new ProwareDataSource(this);
         dataSource.open();
 //        if (dataSource.findLogIn()==true)
 //        {
 //            Intent intent=new Intent(this, MainActivity.class);
 //            startActivityForResult(intent, REQUEST_CODE2);
 //        }
-        etUName=(EditText)findViewById(R.id.editText_login_Uname);
-        etPass=(EditText)findViewById(R.id.editText_login_pass);
+        etUName = (EditText) findViewById(R.id.editText_login_Uname);
+        etPass = (EditText) findViewById(R.id.editText_login_pass);
 
     }
 
@@ -57,9 +58,8 @@ public class LoginActivity extends Activity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
-        }
-        else if(id==R.id.action_register){
-            Intent intent=new Intent(this,RegisterActivity.class);
+        } else if (id == R.id.action_register) {
+            Intent intent = new Intent(this, RegisterActivity.class);
             startActivityForResult(intent, REQUEST_CODE);
         }
 
@@ -69,35 +69,28 @@ public class LoginActivity extends Activity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if(requestCode==REQUEST_CODE && resultCode==1){
+        if (requestCode == REQUEST_CODE && resultCode == 1) {
             //toast
         }
     }
 
     private boolean checkUser(String username, String password) {
-        userList= dataSource.findUsers(username,password);
+        userList = dataSource.findUsers(username, password);
         return true;
     }
 
     public void button_login_Click(View view) {
         if (etUName.getText().toString().isEmpty() && etPass.getText().toString().isEmpty()) {
             Toast.makeText(this, "please enter your username and password", Toast.LENGTH_SHORT).show();
-        }
-        else if (etPass.getText().toString().isEmpty()) {
+        } else if (etPass.getText().toString().isEmpty()) {
             //enter password
             Toast.makeText(this, "please enter your password", Toast.LENGTH_SHORT).show();
-        }
-        else if (etUName.getText().toString().isEmpty()) {
+        } else if (etUName.getText().toString().isEmpty()) {
             //enter username
             Toast.makeText(this, "please enter your username", Toast.LENGTH_SHORT).show();
-        }
-        else {
-
-                Intent intent = new Intent(this, MainActivity.class);
-                startActivityForResult(intent, REQUEST_CODE1);
-           
+        } else {
+            Intent intent = new Intent(this, MainActivity.class);
+            startActivityForResult(intent, REQUEST_CODE1);
         }
     }
-
-
 }

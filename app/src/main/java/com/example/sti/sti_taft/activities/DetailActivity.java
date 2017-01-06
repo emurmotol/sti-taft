@@ -15,15 +15,16 @@ import com.example.sti.sti_taft.R;
 public class DetailActivity extends Activity {
     long prodID;
     int prodImage;
-    boolean cart=false;
+    boolean cart = false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
         getActionBar().setDisplayHomeAsUpEnabled(true);
-        prodID=getIntent().getLongExtra(MainActivity.PRODUCT_ID,0);
-        ImageView imgView=(ImageView) findViewById(R.id.imageView_detail_products);
-        int image=getIntent().getIntExtra(MainActivity.PRODUCT_IMAGE,0);
+        prodID = getIntent().getLongExtra(MainActivity.PRODUCT_ID, 0);
+        ImageView imgView = (ImageView) findViewById(R.id.imageView_detail_products);
+        int image = getIntent().getIntExtra(MainActivity.PRODUCT_IMAGE, 0);
         imgView.setImageResource(image);
 
     }
@@ -31,12 +32,9 @@ public class DetailActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        if (cart==false)
-        {
+        if (cart == false) {
             getMenuInflater().inflate(R.menu.menu_detail, menu);
-        }
-        else
-        {
+        } else {
             getMenuInflater().inflate(R.menu.menu_detail, menu);
         }
         return true;
@@ -47,12 +45,12 @@ public class DetailActivity extends Activity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
-        switch (item.getItemId()){
+        switch (item.getItemId()) {
             case R.id.action_settings:
                 break;
             case R.id.action_AddtoCart:
                 //insert to cart
-                Toast.makeText(this,"Product included to your cart",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Product included to your cart", Toast.LENGTH_SHORT).show();
                 setResult(1);
                 finish();
                 break;
